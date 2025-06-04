@@ -1,5 +1,5 @@
 # Ayen-Sarita
-<h1 align="center">👋 Hi, I'm Ayuna</h1>
+<h1 align="center">👋 Hi, I'm Ayen</h1>
 <p align="center">💻 Aspiring Backend Developer & Data Enthusiast | BSc Computer Science Student</p>
 
 ---
